@@ -1,0 +1,4 @@
+- pkg:cargo/rust-agent-sdk@1.0.0
+- pkg:cargo/rust-agent-sdk@1.0.1
+- pkg:cargo/rust-agent-sdk@1.0.2
+- pkg:cargo/rust-agent-sdk@0.0.1
