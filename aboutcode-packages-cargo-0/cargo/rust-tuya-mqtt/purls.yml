@@ -1,0 +1,14 @@
+- pkg:cargo/rust-tuya-mqtt@0.1.0
+- pkg:cargo/rust-tuya-mqtt@0.4.2
+- pkg:cargo/rust-tuya-mqtt@0.5.0
+- pkg:cargo/rust-tuya-mqtt@0.6.0
+- pkg:cargo/rust-tuya-mqtt@0.6.1
+- pkg:cargo/rust-tuya-mqtt@0.7.0
+- pkg:cargo/rust-tuya-mqtt@0.7.1
+- pkg:cargo/rust-tuya-mqtt@0.7.2
+- pkg:cargo/rust-tuya-mqtt@0.8.1
+- pkg:cargo/rust-tuya-mqtt@0.8.2
+- pkg:cargo/rust-tuya-mqtt@0.8.5
+- pkg:cargo/rust-tuya-mqtt@0.8.6
+- pkg:cargo/rust-tuya-mqtt@0.8.7
+- pkg:cargo/rust-tuya-mqtt@0.8.8
