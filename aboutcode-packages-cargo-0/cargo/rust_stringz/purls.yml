@@ -1,0 +1,3 @@
+- pkg:cargo/rust_stringz@0.1.0
+- pkg:cargo/rust_stringz@0.2.0
+- pkg:cargo/rust_stringz@1.0.0
