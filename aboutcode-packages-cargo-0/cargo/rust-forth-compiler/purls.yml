@@ -1,0 +1,11 @@
+- pkg:cargo/rust-forth-compiler@0.3.1
+- pkg:cargo/rust-forth-compiler@0.4.0
+- pkg:cargo/rust-forth-compiler@0.4.1
+- pkg:cargo/rust-forth-compiler@0.4.2
+- pkg:cargo/rust-forth-compiler@0.5.0
+- pkg:cargo/rust-forth-compiler@0.5.1
+- pkg:cargo/rust-forth-compiler@0.5.2
+- pkg:cargo/rust-forth-compiler@0.5.3
+- pkg:cargo/rust-forth-compiler@0.5.4
+- pkg:cargo/rust-forth-compiler@0.6.0
+- pkg:cargo/rust-forth-compiler@0.7.0
