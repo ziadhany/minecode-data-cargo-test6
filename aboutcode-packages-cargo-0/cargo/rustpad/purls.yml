@@ -1,0 +1,5 @@
+- pkg:cargo/rustpad@1.0.1
+- pkg:cargo/rustpad@1.7.0
+- pkg:cargo/rustpad@1.7.3
+- pkg:cargo/rustpad@1.8.0
+- pkg:cargo/rustpad@1.8.1
