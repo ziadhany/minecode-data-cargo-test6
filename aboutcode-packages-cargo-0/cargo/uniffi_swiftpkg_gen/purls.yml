@@ -1,0 +1,13 @@
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.2
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.4
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.6
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.8
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.10
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.14
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.16
+- pkg:cargo/uniffi_swiftpkg_gen@0.1.18
+- pkg:cargo/uniffi_swiftpkg_gen@0.2.0
+- pkg:cargo/uniffi_swiftpkg_gen@0.2.2
+- pkg:cargo/uniffi_swiftpkg_gen@0.2.4
+- pkg:cargo/uniffi_swiftpkg_gen@0.2.6
+- pkg:cargo/uniffi_swiftpkg_gen@0.2.8
