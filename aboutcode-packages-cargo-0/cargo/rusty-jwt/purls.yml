@@ -1,0 +1,4 @@
+- pkg:cargo/rusty-jwt@0.1.1
+- pkg:cargo/rusty-jwt@0.1.12
+- pkg:cargo/rusty-jwt@0.1.13
+- pkg:cargo/rusty-jwt@0.1.14
