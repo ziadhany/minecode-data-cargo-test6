@@ -1,0 +1,13 @@
+- pkg:cargo/rustc_codegen_spirv@0.1.0
+- pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.13
+- pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.14
+- pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.15
+- pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.16
+- pkg:cargo/rustc_codegen_spirv@0.4.0-alpha.17
+- pkg:cargo/rustc_codegen_spirv@0.4.0
+- pkg:cargo/rustc_codegen_spirv@0.5.0
+- pkg:cargo/rustc_codegen_spirv@0.6.0
+- pkg:cargo/rustc_codegen_spirv@0.6.1
+- pkg:cargo/rustc_codegen_spirv@0.7.0
+- pkg:cargo/rustc_codegen_spirv@0.8.0
+- pkg:cargo/rustc_codegen_spirv@0.9.0
