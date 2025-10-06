@@ -1,0 +1,2 @@
+- pkg:cargo/rust-macios-objective-c-runtime-proc-macros@0.2.2
+- pkg:cargo/rust-macios-objective-c-runtime-proc-macros@0.2.4
