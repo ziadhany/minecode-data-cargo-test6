@@ -1,0 +1,2 @@
+- pkg:cargo/rustpython_wasm@0.3.0
+- pkg:cargo/rustpython_wasm@0.4.0
