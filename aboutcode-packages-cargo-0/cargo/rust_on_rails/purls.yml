@@ -1,0 +1,6 @@
+- pkg:cargo/rust_on_rails@1.0.0
+- pkg:cargo/rust_on_rails@2.0.0
+- pkg:cargo/rust_on_rails@3.0.0
+- pkg:cargo/rust_on_rails@3.1.0
+- pkg:cargo/rust_on_rails@4.0.1
+- pkg:cargo/rust_on_rails@4.0.2
