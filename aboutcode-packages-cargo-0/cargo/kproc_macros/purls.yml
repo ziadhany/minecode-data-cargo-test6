@@ -1,0 +1,8 @@
+- pkg:cargo/kproc_macros@1.0.0
+- pkg:cargo/kproc_macros@3.0.0
+- pkg:cargo/kproc_macros@3.0.1
+- pkg:cargo/kproc_macros@3.0.2
+- pkg:cargo/kproc_macros@4.0.0
+- pkg:cargo/kproc_macros@5.0.0
+- pkg:cargo/kproc_macros@5.1.0
+- pkg:cargo/kproc_macros@6.0.0
