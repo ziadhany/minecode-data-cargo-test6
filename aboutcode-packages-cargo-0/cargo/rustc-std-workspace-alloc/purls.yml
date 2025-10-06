@@ -1,0 +1,2 @@
+- pkg:cargo/rustc-std-workspace-alloc@1.0.0
+- pkg:cargo/rustc-std-workspace-alloc@1.0.1
