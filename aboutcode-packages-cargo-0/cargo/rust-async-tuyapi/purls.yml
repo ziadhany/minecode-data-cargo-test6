@@ -1,0 +1,3 @@
+- pkg:cargo/rust-async-tuyapi@0.8.1
+- pkg:cargo/rust-async-tuyapi@0.9.0
+- pkg:cargo/rust-async-tuyapi@1.0.0
