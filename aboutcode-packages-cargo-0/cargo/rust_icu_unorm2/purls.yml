@@ -1,0 +1,13 @@
+- pkg:cargo/rust_icu_unorm2@1.0.3
+- pkg:cargo/rust_icu_unorm2@2.0.0
+- pkg:cargo/rust_icu_unorm2@2.0.1
+- pkg:cargo/rust_icu_unorm2@2.0.2
+- pkg:cargo/rust_icu_unorm2@2.0.3
+- pkg:cargo/rust_icu_unorm2@3.0.0
+- pkg:cargo/rust_icu_unorm2@4.0.0
+- pkg:cargo/rust_icu_unorm2@4.2.0
+- pkg:cargo/rust_icu_unorm2@4.2.1
+- pkg:cargo/rust_icu_unorm2@4.2.2
+- pkg:cargo/rust_icu_unorm2@4.2.3
+- pkg:cargo/rust_icu_unorm2@5.0.0
+- pkg:cargo/rust_icu_unorm2@5.1.0
