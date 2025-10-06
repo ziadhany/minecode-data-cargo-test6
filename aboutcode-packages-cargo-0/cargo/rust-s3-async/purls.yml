@@ -1,0 +1,2 @@
+- pkg:cargo/rust-s3-async@0.34.0
+- pkg:cargo/rust-s3-async@0.35.0
