@@ -1,0 +1,4 @@
+- pkg:cargo/pg-core@0.3.0-rc.0
+- pkg:cargo/pg-core@0.3.0-rc.1
+- pkg:cargo/pg-core@0.3.0-rc.2
+- pkg:cargo/pg-core@0.3.0
