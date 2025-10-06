@@ -1,0 +1,11 @@
+- pkg:cargo/pg_ecdsa_verify@1.0.0
+- pkg:cargo/pg_ecdsa_verify@1.0.1
+- pkg:cargo/pg_ecdsa_verify@1.0.2
+- pkg:cargo/pg_ecdsa_verify@1.1.0
+- pkg:cargo/pg_ecdsa_verify@1.1.1
+- pkg:cargo/pg_ecdsa_verify@1.1.2
+- pkg:cargo/pg_ecdsa_verify@1.2.0
+- pkg:cargo/pg_ecdsa_verify@1.2.1
+- pkg:cargo/pg_ecdsa_verify@1.2.2
+- pkg:cargo/pg_ecdsa_verify@1.2.3
+- pkg:cargo/pg_ecdsa_verify@1.2.4
