@@ -1,0 +1,5 @@
+- pkg:cargo/rust-tfidf@1.0.0
+- pkg:cargo/rust-tfidf@1.0.3
+- pkg:cargo/rust-tfidf@1.0.4
+- pkg:cargo/rust-tfidf@1.1.0
+- pkg:cargo/rust-tfidf@1.1.1
