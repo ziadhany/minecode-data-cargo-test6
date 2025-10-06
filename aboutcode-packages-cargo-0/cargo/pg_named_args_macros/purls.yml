@@ -1,0 +1,3 @@
+- pkg:cargo/pg_named_args_macros@0.3.0
+- pkg:cargo/pg_named_args_macros@0.3.1
+- pkg:cargo/pg_named_args_macros@0.4.0
