@@ -1,0 +1,5 @@
+- pkg:cargo/rust-on-rv32i@0.0.1
+- pkg:cargo/rust-on-rv32i@0.0.11
+- pkg:cargo/rust-on-rv32i@0.0.12
+- pkg:cargo/rust-on-rv32i@0.0.13
+- pkg:cargo/rust-on-rv32i@0.0.14
