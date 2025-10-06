@@ -1,0 +1,2 @@
+- pkg:cargo/rust_mc_proto_tokio@0.1.18
+- pkg:cargo/rust_mc_proto_tokio@0.1.19
