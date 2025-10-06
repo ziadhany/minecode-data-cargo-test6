@@ -1,0 +1,3 @@
+- pkg:cargo/rust_compile_run@1.0.0
+- pkg:cargo/rust_compile_run@1.0.1
+- pkg:cargo/rust_compile_run@1.0.2
