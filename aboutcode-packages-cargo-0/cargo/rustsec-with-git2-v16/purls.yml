@@ -1,0 +1,4 @@
+- pkg:cargo/rustsec-with-git2-v16@0.26.4
+- pkg:cargo/rustsec-with-git2-v16@0.26.5
+- pkg:cargo/rustsec-with-git2-v16@0.27.0
+- pkg:cargo/rustsec-with-git2-v16@0.28.3
