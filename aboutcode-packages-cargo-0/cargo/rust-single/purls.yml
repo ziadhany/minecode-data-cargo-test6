@@ -1,0 +1,3 @@
+- pkg:cargo/rust-single@25.8.4
+- pkg:cargo/rust-single@25.8.40
+- pkg:cargo/rust-single@25.8.41
