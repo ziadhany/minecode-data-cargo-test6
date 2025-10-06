@@ -1,0 +1,3 @@
+- pkg:cargo/rustup_prompt_helper@1.0.0
+- pkg:cargo/rustup_prompt_helper@1.0.1
+- pkg:cargo/rustup_prompt_helper@1.1.0
