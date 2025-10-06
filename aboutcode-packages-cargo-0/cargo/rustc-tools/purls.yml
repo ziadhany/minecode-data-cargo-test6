@@ -1,0 +1,13 @@
+- pkg:cargo/rustc-tools@0.1.0
+- pkg:cargo/rustc-tools@0.1.1
+- pkg:cargo/rustc-tools@0.1.2
+- pkg:cargo/rustc-tools@0.2.0
+- pkg:cargo/rustc-tools@0.3.0
+- pkg:cargo/rustc-tools@0.2.1
+- pkg:cargo/rustc-tools@0.3.1
+- pkg:cargo/rustc-tools@0.3.2
+- pkg:cargo/rustc-tools@0.3.3
+- pkg:cargo/rustc-tools@0.78.0
+- pkg:cargo/rustc-tools@0.78.1
+- pkg:cargo/rustc-tools@0.80.0
+- pkg:cargo/rustc-tools@0.83.0
