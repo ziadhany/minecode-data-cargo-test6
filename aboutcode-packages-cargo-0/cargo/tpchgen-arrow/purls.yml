@@ -1,0 +1,7 @@
+- pkg:cargo/tpchgen-arrow@0.1.0
+- pkg:cargo/tpchgen-arrow@0.1.1
+- pkg:cargo/tpchgen-arrow@1.0.0
+- pkg:cargo/tpchgen-arrow@1.1.0
+- pkg:cargo/tpchgen-arrow@1.1.1
+- pkg:cargo/tpchgen-arrow@2.0.0
+- pkg:cargo/tpchgen-arrow@2.0.1
