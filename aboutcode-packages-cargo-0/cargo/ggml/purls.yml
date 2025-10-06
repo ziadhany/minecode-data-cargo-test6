@@ -1,0 +1,5 @@
+- pkg:cargo/ggml@0.1.0-rc1
+- pkg:cargo/ggml@0.1.0-rc2
+- pkg:cargo/ggml@0.1.0-rc3
+- pkg:cargo/ggml@0.1.0-rc4
+- pkg:cargo/ggml@0.1.1
