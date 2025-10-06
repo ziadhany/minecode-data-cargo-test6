@@ -1,0 +1,14 @@
+- pkg:cargo/rust_icu_uchar@1.0.1
+- pkg:cargo/rust_icu_uchar@1.0.3
+- pkg:cargo/rust_icu_uchar@2.0.0
+- pkg:cargo/rust_icu_uchar@2.0.1
+- pkg:cargo/rust_icu_uchar@2.0.2
+- pkg:cargo/rust_icu_uchar@2.0.3
+- pkg:cargo/rust_icu_uchar@3.0.0
+- pkg:cargo/rust_icu_uchar@4.0.0
+- pkg:cargo/rust_icu_uchar@4.2.0
+- pkg:cargo/rust_icu_uchar@4.2.1
+- pkg:cargo/rust_icu_uchar@4.2.2
+- pkg:cargo/rust_icu_uchar@4.2.3
+- pkg:cargo/rust_icu_uchar@5.0.0
+- pkg:cargo/rust_icu_uchar@5.1.0
