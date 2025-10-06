@@ -1,0 +1,17 @@
+- pkg:cargo/rust_l402@0.1.0-beta
+- pkg:cargo/rust_l402@0.1.1-beta
+- pkg:cargo/rust_l402@0.1.2-beta
+- pkg:cargo/rust_l402@0.1.3-beta
+- pkg:cargo/rust_l402@2.0.0-beta.1
+- pkg:cargo/rust_l402@2.0.0-beta.2
+- pkg:cargo/rust_l402@2.0.0-beta
+- pkg:cargo/rust_l402@2.0.1-beta
+- pkg:cargo/rust_l402@2.0.2-beta
+- pkg:cargo/rust_l402@2.0.3-beta
+- pkg:cargo/rust_l402@2.0.4-beta
+- pkg:cargo/rust_l402@2.0.5-beta
+- pkg:cargo/rust_l402@2.0.6-beta
+- pkg:cargo/rust_l402@2.0.7-beta
+- pkg:cargo/rust_l402@2.0.8-beta
+- pkg:cargo/rust_l402@2.0.9-beta
+- pkg:cargo/rust_l402@2.1.0-beta
