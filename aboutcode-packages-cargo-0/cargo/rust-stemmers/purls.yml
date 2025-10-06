@@ -1,0 +1,6 @@
+- pkg:cargo/rust-stemmers@0.1.0
+- pkg:cargo/rust-stemmers@1.0.0
+- pkg:cargo/rust-stemmers@1.0.1
+- pkg:cargo/rust-stemmers@1.0.2
+- pkg:cargo/rust-stemmers@1.1.0
+- pkg:cargo/rust-stemmers@1.2.0
