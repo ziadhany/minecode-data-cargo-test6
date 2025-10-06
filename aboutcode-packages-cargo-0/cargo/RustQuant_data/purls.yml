@@ -1,0 +1,4 @@
+- pkg:cargo/RustQuant_data@0.2.11
+- pkg:cargo/RustQuant_data@0.2.12
+- pkg:cargo/RustQuant_data@0.3.0
+- pkg:cargo/RustQuant_data@0.3.1
