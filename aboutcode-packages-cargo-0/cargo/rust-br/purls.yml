@@ -1,0 +1,4 @@
+- pkg:cargo/rust-br@0.2.1
+- pkg:cargo/rust-br@0.3.2
+- pkg:cargo/rust-br@0.4.0
+- pkg:cargo/rust-br@1.0.1
