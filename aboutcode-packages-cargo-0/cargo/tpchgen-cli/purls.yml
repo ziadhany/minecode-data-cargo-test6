@@ -1,0 +1,7 @@
+- pkg:cargo/tpchgen-cli@0.1.0
+- pkg:cargo/tpchgen-cli@0.1.1
+- pkg:cargo/tpchgen-cli@1.0.0
+- pkg:cargo/tpchgen-cli@1.1.0
+- pkg:cargo/tpchgen-cli@1.1.1
+- pkg:cargo/tpchgen-cli@2.0.0
+- pkg:cargo/tpchgen-cli@2.0.1
