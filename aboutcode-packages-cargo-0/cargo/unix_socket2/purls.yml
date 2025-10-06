@@ -1,0 +1,4 @@
+- pkg:cargo/unix_socket2@0.5.1
+- pkg:cargo/unix_socket2@0.5.2
+- pkg:cargo/unix_socket2@0.5.3
+- pkg:cargo/unix_socket2@0.5.4
