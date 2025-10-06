@@ -1,0 +1,12 @@
+- pkg:cargo/rustbreak@0.1.0
+- pkg:cargo/rustbreak@0.2.0
+- pkg:cargo/rustbreak@0.2.1
+- pkg:cargo/rustbreak@1.0.0
+- pkg:cargo/rustbreak@1.1.0
+- pkg:cargo/rustbreak@1.2.0
+- pkg:cargo/rustbreak@1.3.0
+- pkg:cargo/rustbreak@1.4.0
+- pkg:cargo/rustbreak@2.0.0-rc1
+- pkg:cargo/rustbreak@2.0.0-rc2
+- pkg:cargo/rustbreak@2.0.0-rc3
+- pkg:cargo/rustbreak@2.0.0
