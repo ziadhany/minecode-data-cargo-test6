@@ -1,0 +1,2 @@
+- pkg:cargo/rusttls-jwt-authorizer@0.15.0
+- pkg:cargo/rusttls-jwt-authorizer@0.15.1
