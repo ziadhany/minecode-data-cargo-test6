@@ -1,0 +1,12 @@
+- pkg:cargo/rust-releases-channel-manifests@0.15.1
+- pkg:cargo/rust-releases-channel-manifests@0.16.0
+- pkg:cargo/rust-releases-channel-manifests@0.17.0
+- pkg:cargo/rust-releases-channel-manifests@0.21.0
+- pkg:cargo/rust-releases-channel-manifests@0.21.1
+- pkg:cargo/rust-releases-channel-manifests@0.22.0
+- pkg:cargo/rust-releases-channel-manifests@0.22.1
+- pkg:cargo/rust-releases-channel-manifests@0.23.0
+- pkg:cargo/rust-releases-channel-manifests@0.24.0
+- pkg:cargo/rust-releases-channel-manifests@0.25.0
+- pkg:cargo/rust-releases-channel-manifests@0.26.0
+- pkg:cargo/rust-releases-channel-manifests@0.27.0
