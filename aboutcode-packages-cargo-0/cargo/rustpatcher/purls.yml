@@ -1,0 +1,4 @@
+- pkg:cargo/rustpatcher@0.1.11
+- pkg:cargo/rustpatcher@0.1.12
+- pkg:cargo/rustpatcher@0.1.13
+- pkg:cargo/rustpatcher@0.2.0
