@@ -1,0 +1,11 @@
+- pkg:cargo/rust_m_queue@0.1.0
+- pkg:cargo/rust_m_queue@0.1.1
+- pkg:cargo/rust_m_queue@1.0.0
+- pkg:cargo/rust_m_queue@1.0.1
+- pkg:cargo/rust_m_queue@1.0.2
+- pkg:cargo/rust_m_queue@1.0.3
+- pkg:cargo/rust_m_queue@1.0.4-alpha
+- pkg:cargo/rust_m_queue@1.0.4-alpha.1
+- pkg:cargo/rust_m_queue@1.0.4
+- pkg:cargo/rust_m_queue@1.0.5-alpha
+- pkg:cargo/rust_m_queue@1.0.5-alpha.1
