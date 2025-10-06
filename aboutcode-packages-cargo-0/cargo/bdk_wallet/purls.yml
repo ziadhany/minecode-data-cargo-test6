@@ -1,0 +1,17 @@
+- pkg:cargo/bdk_wallet@1.0.0-alpha.5
+- pkg:cargo/bdk_wallet@1.0.0-alpha.11
+- pkg:cargo/bdk_wallet@1.0.0-alpha.12
+- pkg:cargo/bdk_wallet@1.0.0-alpha.13
+- pkg:cargo/bdk_wallet@1.0.0-beta.1
+- pkg:cargo/bdk_wallet@1.0.0-beta.2
+- pkg:cargo/bdk_wallet@1.0.0-beta.3
+- pkg:cargo/bdk_wallet@1.0.0-beta.4
+- pkg:cargo/bdk_wallet@1.0.0-beta.5
+- pkg:cargo/bdk_wallet@1.0.0-beta.6
+- pkg:cargo/bdk_wallet@1.0.0
+- pkg:cargo/bdk_wallet@1.1.0
+- pkg:cargo/bdk_wallet@1.2.0
+- pkg:cargo/bdk_wallet@2.0.0-beta.0
+- pkg:cargo/bdk_wallet@2.0.0
+- pkg:cargo/bdk_wallet@2.1.0
+- pkg:cargo/bdk_wallet@2.2.0
