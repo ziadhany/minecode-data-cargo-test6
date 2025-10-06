@@ -1,0 +1,3 @@
+- pkg:cargo/pg-migrator@0.1.0
+- pkg:cargo/pg-migrator@0.1.1
+- pkg:cargo/pg-migrator@0.2.1
