@@ -1,0 +1,6 @@
+- pkg:cargo/rustls-openssl@0.0.1
+- pkg:cargo/rustls-openssl@0.1.0
+- pkg:cargo/rustls-openssl@0.1.1
+- pkg:cargo/rustls-openssl@0.2.0
+- pkg:cargo/rustls-openssl@0.2.1
+- pkg:cargo/rustls-openssl@0.3.0
