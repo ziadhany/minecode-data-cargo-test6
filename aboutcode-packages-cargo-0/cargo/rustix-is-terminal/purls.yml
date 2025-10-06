@@ -1,0 +1,2 @@
+- pkg:cargo/rustix-is-terminal@0.4.11
+- pkg:cargo/rustix-is-terminal@0.4.12
