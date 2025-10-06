@@ -1,0 +1,4 @@
+- pkg:cargo/rust-analyzer-salsa-macros@0.17.0-pre.3
+- pkg:cargo/rust-analyzer-salsa-macros@0.17.0-pre.4
+- pkg:cargo/rust-analyzer-salsa-macros@0.17.0-pre.5
+- pkg:cargo/rust-analyzer-salsa-macros@0.17.0-pre.6
