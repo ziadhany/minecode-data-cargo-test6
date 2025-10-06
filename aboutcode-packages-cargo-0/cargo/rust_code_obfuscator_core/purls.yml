@@ -1,0 +1,3 @@
+- pkg:cargo/rust_code_obfuscator_core@0.2.3
+- pkg:cargo/rust_code_obfuscator_core@0.2.4
+- pkg:cargo/rust_code_obfuscator_core@0.2.5
