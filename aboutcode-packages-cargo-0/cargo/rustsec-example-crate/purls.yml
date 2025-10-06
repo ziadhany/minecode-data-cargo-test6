@@ -1,0 +1,3 @@
+- pkg:cargo/rustsec-example-crate@0.0.0
+- pkg:cargo/rustsec-example-crate@1.0.0
+- pkg:cargo/rustsec-example-crate@0.0.1
