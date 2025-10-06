@@ -1,0 +1,6 @@
+- pkg:cargo/rust-bloomfilter@0.0.1
+- pkg:cargo/rust-bloomfilter@0.0.2
+- pkg:cargo/rust-bloomfilter@0.0.3
+- pkg:cargo/rust-bloomfilter@0.0.4
+- pkg:cargo/rust-bloomfilter@1.0.0-beta
+- pkg:cargo/rust-bloomfilter@1.0.0-beta1
