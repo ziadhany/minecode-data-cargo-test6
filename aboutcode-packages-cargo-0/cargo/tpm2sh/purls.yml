@@ -1,0 +1,6 @@
+- pkg:cargo/tpm2sh@0.5.4
+- pkg:cargo/tpm2sh@0.6.1
+- pkg:cargo/tpm2sh@0.7.0
+- pkg:cargo/tpm2sh@0.8.0
+- pkg:cargo/tpm2sh@0.9.0
+- pkg:cargo/tpm2sh@0.10.0
