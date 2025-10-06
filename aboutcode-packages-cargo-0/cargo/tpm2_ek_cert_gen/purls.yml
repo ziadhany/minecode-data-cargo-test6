@@ -1,0 +1,2 @@
+- pkg:cargo/tpm2_ek_cert_gen@0.1.0
+- pkg:cargo/tpm2_ek_cert_gen@0.1.1
