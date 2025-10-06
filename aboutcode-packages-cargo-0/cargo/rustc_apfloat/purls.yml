@@ -1,0 +1,9 @@
+- pkg:cargo/rustc_apfloat@0.0.0
+- pkg:cargo/rustc_apfloat@0.1.0
+- pkg:cargo/rustc_apfloat@0.1.1
+- pkg:cargo/rustc_apfloat@0.1.2
+- pkg:cargo/rustc_apfloat@0.1.3
+- pkg:cargo/rustc_apfloat@0.2.0%2Bllvm-462a31f5a5ab
+- pkg:cargo/rustc_apfloat@0.2.1%2Bllvm-462a31f5a5ab
+- pkg:cargo/rustc_apfloat@0.2.2%2Bllvm-462a31f5a5ab
+- pkg:cargo/rustc_apfloat@0.2.3%2Bllvm-462a31f5a5ab
