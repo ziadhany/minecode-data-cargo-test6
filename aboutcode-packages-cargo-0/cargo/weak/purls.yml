@@ -1,0 +1,6 @@
+- pkg:cargo/weak@0.0.0-0.0.0-0.0.0
+- pkg:cargo/weak@0.0.0-dev.0
+- pkg:cargo/weak@0.0.0-empty-test
+- pkg:cargo/weak@0.0.0-empty-test2
+- pkg:cargo/weak@0.0.0-empty-test3
+- pkg:cargo/weak@0.0.0--

@@ -1,0 +1,7 @@
+- pkg:cargo/webc-cli@6.0.0-rc1
+- pkg:cargo/webc-cli@6.2.0
+- pkg:cargo/webc-cli@8.0.0
+- pkg:cargo/webc-cli@9.0.0
+- pkg:cargo/webc-cli@9.2.0
+- pkg:cargo/webc-cli@10.0.0
+- pkg:cargo/webc-cli@10.0.1

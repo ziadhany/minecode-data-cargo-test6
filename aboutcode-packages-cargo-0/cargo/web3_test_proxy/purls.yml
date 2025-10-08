@@ -1,0 +1,5 @@
+- pkg:cargo/web3_test_proxy@0.2.2
+- pkg:cargo/web3_test_proxy@0.3.8
+- pkg:cargo/web3_test_proxy@0.3.10
+- pkg:cargo/web3_test_proxy@0.3.25
+- pkg:cargo/web3_test_proxy@0.4.1

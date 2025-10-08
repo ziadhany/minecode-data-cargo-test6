@@ -1,0 +1,12 @@
+- pkg:cargo/webpki-root-certs@0.26.4
+- pkg:cargo/webpki-root-certs@0.26.5
+- pkg:cargo/webpki-root-certs@0.26.6
+- pkg:cargo/webpki-root-certs@0.26.7
+- pkg:cargo/webpki-root-certs@0.26.8
+- pkg:cargo/webpki-root-certs@0.26.9
+- pkg:cargo/webpki-root-certs@0.26.10
+- pkg:cargo/webpki-root-certs@1.0.0
+- pkg:cargo/webpki-root-certs@0.26.11
+- pkg:cargo/webpki-root-certs@1.0.1
+- pkg:cargo/webpki-root-certs@1.0.2
+- pkg:cargo/webpki-root-certs@1.0.3

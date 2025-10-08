@@ -1,0 +1,5 @@
+- pkg:cargo/webkit2gtk5-webextension-sys@0.1.1
+- pkg:cargo/webkit2gtk5-webextension-sys@0.1.2
+- pkg:cargo/webkit2gtk5-webextension-sys@0.1.3
+- pkg:cargo/webkit2gtk5-webextension-sys@0.2.0
+- pkg:cargo/webkit2gtk5-webextension-sys@0.3.0

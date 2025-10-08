@@ -1,0 +1,5 @@
+- pkg:cargo/web-service-uptime-axum@1.0.0
+- pkg:cargo/web-service-uptime-axum@1.1.0
+- pkg:cargo/web-service-uptime-axum@1.4.0
+- pkg:cargo/web-service-uptime-axum@1.4.1
+- pkg:cargo/web-service-uptime-axum@1.5.1

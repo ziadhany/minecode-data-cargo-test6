@@ -1,0 +1,17 @@
+- pkg:cargo/web_server@0.1.0
+- pkg:cargo/web_server@0.1.1
+- pkg:cargo/web_server@0.1.11
+- pkg:cargo/web_server@0.1.2
+- pkg:cargo/web_server@0.1.20
+- pkg:cargo/web_server@0.1.30
+- pkg:cargo/web_server@0.2.1
+- pkg:cargo/web_server@0.2.2
+- pkg:cargo/web_server@0.3.0
+- pkg:cargo/web_server@0.3.1
+- pkg:cargo/web_server@0.3.2
+- pkg:cargo/web_server@0.3.3
+- pkg:cargo/web_server@0.3.4
+- pkg:cargo/web_server@0.3.41
+- pkg:cargo/web_server@0.4.0
+- pkg:cargo/web_server@0.4.1
+- pkg:cargo/web_server@0.4.2
