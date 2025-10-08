@@ -1,0 +1,7 @@
+- pkg:cargo/webtransport-proto@0.2.1
+- pkg:cargo/webtransport-proto@0.3.0
+- pkg:cargo/webtransport-proto@0.3.2
+- pkg:cargo/webtransport-proto@0.4.0
+- pkg:cargo/webtransport-proto@0.5.4
+- pkg:cargo/webtransport-proto@0.6.0
+- pkg:cargo/webtransport-proto@0.6.1

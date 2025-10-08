@@ -1,0 +1,5 @@
+- pkg:cargo/prometheus-parser@0.4.0-rc1
+- pkg:cargo/prometheus-parser@0.4.0-rc2
+- pkg:cargo/prometheus-parser@0.4.0
+- pkg:cargo/prometheus-parser@0.4.2
+- pkg:cargo/prometheus-parser@0.4.3-alpha9

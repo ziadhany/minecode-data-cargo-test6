@@ -1,0 +1,3 @@
+- pkg:cargo/prometheus_smartctl_temperature_exporter@1.0.0
+- pkg:cargo/prometheus_smartctl_temperature_exporter@1.0.1
+- pkg:cargo/prometheus_smartctl_temperature_exporter@1.1.0

@@ -1,0 +1,2 @@
+- pkg:cargo/prometheus-json-encoder@0.1.0
+- pkg:cargo/prometheus-json-encoder@0.1.1

@@ -1,0 +1,2 @@
+- pkg:cargo/prometheus-measures-exporter@0.0.1
+- pkg:cargo/prometheus-measures-exporter@0.0.3

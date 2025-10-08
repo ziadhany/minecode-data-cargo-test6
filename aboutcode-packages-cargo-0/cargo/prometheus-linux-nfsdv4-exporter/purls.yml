@@ -1,0 +1,2 @@
+- pkg:cargo/prometheus-linux-nfsdv4-exporter@1.0.1
+- pkg:cargo/prometheus-linux-nfsdv4-exporter@1.1.3
