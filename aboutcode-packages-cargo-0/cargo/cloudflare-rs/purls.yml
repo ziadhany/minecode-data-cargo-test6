@@ -1,0 +1,4 @@
+- pkg:cargo/cloudflare-rs@0.6.5
+- pkg:cargo/cloudflare-rs@0.6.6
+- pkg:cargo/cloudflare-rs@0.6.8
+- pkg:cargo/cloudflare-rs@0.7.0

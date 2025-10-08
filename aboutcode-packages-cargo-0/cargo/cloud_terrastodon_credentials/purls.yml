@@ -1,0 +1,4 @@
+- pkg:cargo/cloud_terrastodon_credentials@0.24.0
+- pkg:cargo/cloud_terrastodon_credentials@0.25.0
+- pkg:cargo/cloud_terrastodon_credentials@0.27.0
+- pkg:cargo/cloud_terrastodon_credentials@0.28.0

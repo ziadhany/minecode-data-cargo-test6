@@ -1,0 +1,16 @@
+- pkg:cargo/clue_core@3.0.0-rc1
+- pkg:cargo/clue_core@3.0.0
+- pkg:cargo/clue_core@3.0.1
+- pkg:cargo/clue_core@3.1.0
+- pkg:cargo/clue_core@3.2.0
+- pkg:cargo/clue_core@3.3.0
+- pkg:cargo/clue_core@3.3.1
+- pkg:cargo/clue_core@3.4.0
+- pkg:cargo/clue_core@3.4.1
+- pkg:cargo/clue_core@3.4.2
+- pkg:cargo/clue_core@3.4.3
+- pkg:cargo/clue_core@3.4.4
+- pkg:cargo/clue_core@3.4.5
+- pkg:cargo/clue_core@3.4.6
+- pkg:cargo/clue_core@3.4.7
+- pkg:cargo/clue_core@4.0.0-78ce10c1

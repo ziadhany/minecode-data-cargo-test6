@@ -1,0 +1,8 @@
+- pkg:cargo/vmi-driver-xen@0.0.0
+- pkg:cargo/vmi-driver-xen@0.0.1-rc.1
+- pkg:cargo/vmi-driver-xen@0.0.1-rc.2
+- pkg:cargo/vmi-driver-xen@0.1.0
+- pkg:cargo/vmi-driver-xen@0.1.1
+- pkg:cargo/vmi-driver-xen@0.2.0
+- pkg:cargo/vmi-driver-xen@0.3.0
+- pkg:cargo/vmi-driver-xen@0.4.0

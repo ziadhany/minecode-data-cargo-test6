@@ -1,0 +1,10 @@
+- pkg:cargo/protobuf-macros@4.31.0-beta1
+- pkg:cargo/protobuf-macros@4.31.0-rc.1
+- pkg:cargo/protobuf-macros@4.31.0-rc.2
+- pkg:cargo/protobuf-macros@4.31.0-release
+- pkg:cargo/protobuf-macros@4.31.1-release
+- pkg:cargo/protobuf-macros@4.32.0-rc.1
+- pkg:cargo/protobuf-macros@4.32.0-rc.2
+- pkg:cargo/protobuf-macros@4.32.0-release
+- pkg:cargo/protobuf-macros@4.32.1-release
+- pkg:cargo/protobuf-macros@4.33.0-rc.1

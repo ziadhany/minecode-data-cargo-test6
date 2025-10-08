@@ -1,0 +1,6 @@
+- pkg:cargo/bpfdeploy-libbpf-sys@0.7.0%2Bv0.7.0
+- pkg:cargo/bpfdeploy-libbpf-sys@0.7.1%2Bv0.7.0
+- pkg:cargo/bpfdeploy-libbpf-sys@0.7.2%2Bv0.7.0
+- pkg:cargo/bpfdeploy-libbpf-sys@0.8.0%2Bv0.8.0
+- pkg:cargo/bpfdeploy-libbpf-sys@1.0.0%2Bv1.0.0
+- pkg:cargo/bpfdeploy-libbpf-sys@1.0.1%2Bv1.0.0

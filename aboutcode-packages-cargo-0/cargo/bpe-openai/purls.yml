@@ -1,0 +1,4 @@
+- pkg:cargo/bpe-openai@0.1.0
+- pkg:cargo/bpe-openai@0.2.0
+- pkg:cargo/bpe-openai@0.2.1
+- pkg:cargo/bpe-openai@0.3.0

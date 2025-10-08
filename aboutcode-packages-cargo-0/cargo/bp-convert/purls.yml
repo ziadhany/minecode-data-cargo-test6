@@ -1,0 +1,4 @@
+- pkg:cargo/bp-convert@0.12.0-beta.4
+- pkg:cargo/bp-convert@0.11.0-beta.8
+- pkg:cargo/bp-convert@0.12.0-beta.6
+- pkg:cargo/bp-convert@0.12.0-rc.1

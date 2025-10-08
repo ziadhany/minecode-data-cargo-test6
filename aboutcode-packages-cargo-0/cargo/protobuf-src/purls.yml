@@ -1,0 +1,12 @@
+- pkg:cargo/protobuf-src@0.1.0%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.0%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.1%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.2%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.3%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.4%2B3.19.1
+- pkg:cargo/protobuf-src@1.0.5%2B3.19.3
+- pkg:cargo/protobuf-src@1.1.0%2B21.5
+- pkg:cargo/protobuf-src@2.0.0%2B26.1
+- pkg:cargo/protobuf-src@2.0.1%2B26.1
+- pkg:cargo/protobuf-src@2.1.0%2B27.1
+- pkg:cargo/protobuf-src@2.1.1%2B27.1

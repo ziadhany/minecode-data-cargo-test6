@@ -1,0 +1,5 @@
+- pkg:cargo/vmemcached@0.1.0
+- pkg:cargo/vmemcached@0.2.0
+- pkg:cargo/vmemcached@0.3.0
+- pkg:cargo/vmemcached@0.4.0
+- pkg:cargo/vmemcached@0.5.0

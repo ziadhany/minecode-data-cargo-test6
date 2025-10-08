@@ -1,0 +1,6 @@
+- pkg:cargo/clevis-pin-tpm2@0.1.2
+- pkg:cargo/clevis-pin-tpm2@0.1.5
+- pkg:cargo/clevis-pin-tpm2@0.2.0
+- pkg:cargo/clevis-pin-tpm2@0.3.0
+- pkg:cargo/clevis-pin-tpm2@0.4.1
+- pkg:cargo/clevis-pin-tpm2@0.5.1

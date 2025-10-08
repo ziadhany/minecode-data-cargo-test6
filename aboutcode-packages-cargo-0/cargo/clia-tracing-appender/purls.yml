@@ -1,0 +1,5 @@
+- pkg:cargo/clia-tracing-appender@0.2.0
+- pkg:cargo/clia-tracing-appender@0.2.2
+- pkg:cargo/clia-tracing-appender@0.2.3
+- pkg:cargo/clia-tracing-appender@0.2.4
+- pkg:cargo/clia-tracing-appender@0.2.5

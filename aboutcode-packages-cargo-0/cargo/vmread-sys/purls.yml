@@ -1,0 +1,4 @@
+- pkg:cargo/vmread-sys@0.1.1
+- pkg:cargo/vmread-sys@0.1.2
+- pkg:cargo/vmread-sys@0.1.4
+- pkg:cargo/vmread-sys@0.1.5

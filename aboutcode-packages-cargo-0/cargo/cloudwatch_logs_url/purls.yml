@@ -1,0 +1,2 @@
+- pkg:cargo/cloudwatch_logs_url@0.1.0
+- pkg:cargo/cloudwatch_logs_url@1.0.0
