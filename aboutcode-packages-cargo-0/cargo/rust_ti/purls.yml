@@ -21,3 +21,4 @@
 - pkg:cargo/rust_ti@2.1.2
 - pkg:cargo/rust_ti@2.1.3
 - pkg:cargo/rust_ti@2.1.4
+- pkg:cargo/rust_ti@2.1.5
