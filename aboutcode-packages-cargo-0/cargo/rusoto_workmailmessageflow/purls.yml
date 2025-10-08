@@ -1,0 +1,7 @@
+- pkg:cargo/rusoto_workmailmessageflow@0.43.0-beta.1
+- pkg:cargo/rusoto_workmailmessageflow@0.43.0
+- pkg:cargo/rusoto_workmailmessageflow@0.44.0
+- pkg:cargo/rusoto_workmailmessageflow@0.45.0
+- pkg:cargo/rusoto_workmailmessageflow@0.46.0
+- pkg:cargo/rusoto_workmailmessageflow@0.47.0
+- pkg:cargo/rusoto_workmailmessageflow@0.48.0

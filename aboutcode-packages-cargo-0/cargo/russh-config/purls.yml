@@ -1,0 +1,6 @@
+- pkg:cargo/russh-config@0.7.0-beta.1
+- pkg:cargo/russh-config@0.7.0
+- pkg:cargo/russh-config@0.7.1
+- pkg:cargo/russh-config@0.48.0
+- pkg:cargo/russh-config@0.50.0
+- pkg:cargo/russh-config@0.54.0

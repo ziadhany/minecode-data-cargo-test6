@@ -1,0 +1,9 @@
+- pkg:cargo/rusoto_ec2_instance_connect@0.41.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.42.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.43.0-beta.1
+- pkg:cargo/rusoto_ec2_instance_connect@0.43.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.44.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.45.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.46.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.47.0
+- pkg:cargo/rusoto_ec2_instance_connect@0.48.0

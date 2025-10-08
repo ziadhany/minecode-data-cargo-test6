@@ -1,0 +1,6 @@
+- pkg:cargo/rusoto_sms_voice@0.43.0
+- pkg:cargo/rusoto_sms_voice@0.44.0
+- pkg:cargo/rusoto_sms_voice@0.45.0
+- pkg:cargo/rusoto_sms_voice@0.46.0
+- pkg:cargo/rusoto_sms_voice@0.47.0
+- pkg:cargo/rusoto_sms_voice@0.48.0

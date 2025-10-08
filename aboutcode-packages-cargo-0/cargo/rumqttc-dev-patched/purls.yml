@@ -1,0 +1,8 @@
+- pkg:cargo/rumqttc-dev-patched@0.24.0
+- pkg:cargo/rumqttc-dev-patched@0.24.0-devpatch%2B9109f87
+- pkg:cargo/rumqttc-dev-patched@0.24.1-devpatch%2B9a6e605
+- pkg:cargo/rumqttc-dev-patched@0.24.2-devpatch
+- pkg:cargo/rumqttc-dev-patched@0.24.3-devpatch
+- pkg:cargo/rumqttc-dev-patched@0.24.4-devpatch
+- pkg:cargo/rumqttc-dev-patched@0.24.5-ack-notify
+- pkg:cargo/rumqttc-dev-patched@0.24.6-ack-notify

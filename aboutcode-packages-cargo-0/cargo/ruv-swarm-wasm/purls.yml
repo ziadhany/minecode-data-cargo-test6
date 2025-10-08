@@ -1,0 +1,3 @@
+- pkg:cargo/ruv-swarm-wasm@0.1.0
+- pkg:cargo/ruv-swarm-wasm@0.2.0
+- pkg:cargo/ruv-swarm-wasm@1.0.5
