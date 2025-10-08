@@ -40,3 +40,6 @@
 - pkg:cargo/unitforge@0.2.35
 - pkg:cargo/unitforge@0.2.36
 - pkg:cargo/unitforge@0.2.37
+- pkg:cargo/unitforge@0.2.38
+- pkg:cargo/unitforge@0.3.0
+- pkg:cargo/unitforge@0.3.1
