@@ -1,0 +1,16 @@
+- pkg:cargo/closure-ffi-proc-macros@0.1.0
+- pkg:cargo/closure-ffi-proc-macros@0.1.1
+- pkg:cargo/closure-ffi-proc-macros@0.2.0
+- pkg:cargo/closure-ffi-proc-macros@0.2.1
+- pkg:cargo/closure-ffi-proc-macros@0.3.0
+- pkg:cargo/closure-ffi-proc-macros@0.5.0
+- pkg:cargo/closure-ffi-proc-macros@2.0.0
+- pkg:cargo/closure-ffi-proc-macros@2.0.1
+- pkg:cargo/closure-ffi-proc-macros@2.1.0
+- pkg:cargo/closure-ffi-proc-macros@2.2.0
+- pkg:cargo/closure-ffi-proc-macros@2.3.0
+- pkg:cargo/closure-ffi-proc-macros@2.4.0
+- pkg:cargo/closure-ffi-proc-macros@3.0.0
+- pkg:cargo/closure-ffi-proc-macros@3.0.1
+- pkg:cargo/closure-ffi-proc-macros@4.0.0
+- pkg:cargo/closure-ffi-proc-macros@5.0.0

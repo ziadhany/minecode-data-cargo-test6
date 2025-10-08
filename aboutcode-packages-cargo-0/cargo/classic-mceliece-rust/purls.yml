@@ -1,0 +1,8 @@
+- pkg:cargo/classic-mceliece-rust@1.0.0
+- pkg:cargo/classic-mceliece-rust@1.0.1
+- pkg:cargo/classic-mceliece-rust@1.1.0
+- pkg:cargo/classic-mceliece-rust@2.0.0
+- pkg:cargo/classic-mceliece-rust@2.0.1
+- pkg:cargo/classic-mceliece-rust@3.0.0
+- pkg:cargo/classic-mceliece-rust@2.0.2
+- pkg:cargo/classic-mceliece-rust@3.1.0

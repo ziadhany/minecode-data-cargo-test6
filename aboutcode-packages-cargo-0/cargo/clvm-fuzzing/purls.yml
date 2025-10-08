@@ -1,0 +1,2 @@
+- pkg:cargo/clvm-fuzzing@0.16.1
+- pkg:cargo/clvm-fuzzing@0.16.2

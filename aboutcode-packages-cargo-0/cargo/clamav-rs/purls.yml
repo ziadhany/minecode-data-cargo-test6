@@ -1,0 +1,4 @@
+- pkg:cargo/clamav-rs@0.5.0
+- pkg:cargo/clamav-rs@0.5.2
+- pkg:cargo/clamav-rs@0.5.3
+- pkg:cargo/clamav-rs@0.5.5
