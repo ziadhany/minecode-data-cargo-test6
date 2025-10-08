@@ -1,0 +1,5 @@
+- pkg:cargo/prest-npm@0.1.0
+- pkg:cargo/prest-npm@0.1.0-debug
+- pkg:cargo/prest-npm@0.1.0-debug2
+- pkg:cargo/prest-npm@0.2.0-debug
+- pkg:cargo/prest-npm@0.2.0-debug2

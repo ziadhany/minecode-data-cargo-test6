@@ -1,0 +1,4 @@
+- pkg:cargo/proc-macro2-diagnostics@0.9.0
+- pkg:cargo/proc-macro2-diagnostics@0.9.1
+- pkg:cargo/proc-macro2-diagnostics@0.10.0
+- pkg:cargo/proc-macro2-diagnostics@0.10.1

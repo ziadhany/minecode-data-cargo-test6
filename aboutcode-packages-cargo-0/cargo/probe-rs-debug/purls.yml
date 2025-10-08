@@ -1,0 +1,5 @@
+- pkg:cargo/probe-rs-debug@0.26.0
+- pkg:cargo/probe-rs-debug@0.27.0
+- pkg:cargo/probe-rs-debug@0.28.0
+- pkg:cargo/probe-rs-debug@0.29.0
+- pkg:cargo/probe-rs-debug@0.29.1

@@ -1,0 +1,10 @@
+- pkg:cargo/provider@0.8.0
+- pkg:cargo/provider@0.8.1
+- pkg:cargo/provider@0.8.2
+- pkg:cargo/provider@0.8.3
+- pkg:cargo/provider@0.8.8
+- pkg:cargo/provider@0.21.0
+- pkg:cargo/provider@0.23.0
+- pkg:cargo/provider@0.25.0
+- pkg:cargo/provider@0.34.4
+- pkg:cargo/provider@0.34.7

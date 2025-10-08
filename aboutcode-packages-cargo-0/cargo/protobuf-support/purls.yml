@@ -1,0 +1,17 @@
+- pkg:cargo/protobuf-support@3.0.0-alpha.11
+- pkg:cargo/protobuf-support@3.0.0-alpha.12
+- pkg:cargo/protobuf-support@3.0.0-alpha.13
+- pkg:cargo/protobuf-support@3.0.0-alpha.14
+- pkg:cargo/protobuf-support@3.0.0
+- pkg:cargo/protobuf-support@3.0.1
+- pkg:cargo/protobuf-support@3.0.2
+- pkg:cargo/protobuf-support@3.0.3
+- pkg:cargo/protobuf-support@3.1.0
+- pkg:cargo/protobuf-support@3.2.0
+- pkg:cargo/protobuf-support@3.3.0
+- pkg:cargo/protobuf-support@3.4.0
+- pkg:cargo/protobuf-support@3.5.0
+- pkg:cargo/protobuf-support@3.5.1
+- pkg:cargo/protobuf-support@3.6.0
+- pkg:cargo/protobuf-support@3.7.1
+- pkg:cargo/protobuf-support@3.7.2

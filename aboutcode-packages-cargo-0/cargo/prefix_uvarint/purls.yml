@@ -1,0 +1,9 @@
+- pkg:cargo/prefix_uvarint@0.1.0
+- pkg:cargo/prefix_uvarint@0.2.0
+- pkg:cargo/prefix_uvarint@0.3.0
+- pkg:cargo/prefix_uvarint@0.4.0
+- pkg:cargo/prefix_uvarint@0.4.1
+- pkg:cargo/prefix_uvarint@0.5.0
+- pkg:cargo/prefix_uvarint@0.5.1
+- pkg:cargo/prefix_uvarint@0.6.0
+- pkg:cargo/prefix_uvarint@0.6.1

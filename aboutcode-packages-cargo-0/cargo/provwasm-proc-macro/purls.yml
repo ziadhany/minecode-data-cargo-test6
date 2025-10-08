@@ -1,0 +1,5 @@
+- pkg:cargo/provwasm-proc-macro@0.1.0-rc1
+- pkg:cargo/provwasm-proc-macro@0.1.0
+- pkg:cargo/provwasm-proc-macro@0.1.1
+- pkg:cargo/provwasm-proc-macro@0.1.2
+- pkg:cargo/provwasm-proc-macro@0.2.0

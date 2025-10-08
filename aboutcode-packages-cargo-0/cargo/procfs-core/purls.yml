@@ -1,0 +1,4 @@
+- pkg:cargo/procfs-core@0.16.0-RC1
+- pkg:cargo/procfs-core@0.16.0
+- pkg:cargo/procfs-core@0.17.0
+- pkg:cargo/procfs-core@0.18.0

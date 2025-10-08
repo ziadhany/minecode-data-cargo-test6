@@ -1,0 +1,11 @@
+- pkg:cargo/prest-build@0.1.0
+- pkg:cargo/prest-build@0.2.0
+- pkg:cargo/prest-build@0.2.1
+- pkg:cargo/prest-build@0.3.0
+- pkg:cargo/prest-build@0.5.0
+- pkg:cargo/prest-build@0.5.0-debug
+- pkg:cargo/prest-build@0.5.0-debug2
+- pkg:cargo/prest-build@0.6.0-debug
+- pkg:cargo/prest-build@0.6.0-debug2
+- pkg:cargo/prest-build@0.6.0-debug3
+- pkg:cargo/prest-build@0.6.0-debug4

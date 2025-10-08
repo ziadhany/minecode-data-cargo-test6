@@ -1,0 +1,5 @@
+- pkg:cargo/prost-serde-derive@0.1.0
+- pkg:cargo/prost-serde-derive@0.1.1
+- pkg:cargo/prost-serde-derive@0.1.2
+- pkg:cargo/prost-serde-derive@0.1.4
+- pkg:cargo/prost-serde-derive@0.1.5

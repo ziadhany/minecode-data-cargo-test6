@@ -1,0 +1,2 @@
+- pkg:cargo/prov-cosmwasm-std@1.0.0-provbeta2
+- pkg:cargo/prov-cosmwasm-std@1.0.0-provbeta3

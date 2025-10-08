@@ -1,0 +1,5 @@
+- pkg:cargo/protobuf-codegen-pure3@2.27.2
+- pkg:cargo/protobuf-codegen-pure3@2.27.3
+- pkg:cargo/protobuf-codegen-pure3@2.28.0
+- pkg:cargo/protobuf-codegen-pure3@2.28.1
+- pkg:cargo/protobuf-codegen-pure3@2.28.2
