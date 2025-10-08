@@ -1,0 +1,4 @@
+- pkg:cargo/rust-etcd-utils@0.10.0%2Bpre1
+- pkg:cargo/rust-etcd-utils@0.11.0
+- pkg:cargo/rust-etcd-utils@0.12.0
+- pkg:cargo/rust-etcd-utils@0.13.0

@@ -1,0 +1,5 @@
+- pkg:cargo/rust-keycloak@0.0.1
+- pkg:cargo/rust-keycloak@0.0.2
+- pkg:cargo/rust-keycloak@0.0.3
+- pkg:cargo/rust-keycloak@0.0.6
+- pkg:cargo/rust-keycloak@0.0.7

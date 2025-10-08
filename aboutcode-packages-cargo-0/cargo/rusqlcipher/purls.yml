@@ -1,0 +1,12 @@
+- pkg:cargo/rusqlcipher@0.12.0
+- pkg:cargo/rusqlcipher@0.13.0
+- pkg:cargo/rusqlcipher@0.14.0
+- pkg:cargo/rusqlcipher@0.14.1
+- pkg:cargo/rusqlcipher@0.14.2
+- pkg:cargo/rusqlcipher@0.14.3
+- pkg:cargo/rusqlcipher@0.14.4
+- pkg:cargo/rusqlcipher@0.14.5
+- pkg:cargo/rusqlcipher@0.14.6
+- pkg:cargo/rusqlcipher@0.14.7
+- pkg:cargo/rusqlcipher@0.14.8
+- pkg:cargo/rusqlcipher@0.14.9

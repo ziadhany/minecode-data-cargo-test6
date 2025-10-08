@@ -1,0 +1,4 @@
+- pkg:cargo/rusqlite-pool@0.0.0
+- pkg:cargo/rusqlite-pool@0.1.0
+- pkg:cargo/rusqlite-pool@0.1.1
+- pkg:cargo/rusqlite-pool@0.2.0

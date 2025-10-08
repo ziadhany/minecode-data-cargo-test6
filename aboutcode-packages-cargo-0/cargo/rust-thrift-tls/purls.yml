@@ -1,0 +1,3 @@
+- pkg:cargo/rust-thrift-tls@0.2.0
+- pkg:cargo/rust-thrift-tls@0.2.1
+- pkg:cargo/rust-thrift-tls@0.3.0

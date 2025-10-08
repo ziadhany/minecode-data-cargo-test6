@@ -1,0 +1,2 @@
+- pkg:cargo/rusqlite-ic@0.28.0
+- pkg:cargo/rusqlite-ic@0.28.1

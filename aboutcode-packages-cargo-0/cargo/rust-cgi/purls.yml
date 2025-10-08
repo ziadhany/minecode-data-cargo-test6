@@ -1,0 +1,5 @@
+- pkg:cargo/rust-cgi@0.6.1
+- pkg:cargo/rust-cgi@0.6.2
+- pkg:cargo/rust-cgi@0.7.0
+- pkg:cargo/rust-cgi@0.7.1
+- pkg:cargo/rust-cgi@0.7.2

@@ -1,0 +1,2 @@
+- pkg:cargo/rust_lsp@0.6.0
+- pkg:cargo/rust_lsp@0.6.1
